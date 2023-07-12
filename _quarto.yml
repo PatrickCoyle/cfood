@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Patrick's Food and Cooking Journal"
+  author: "Patrick Coyle"
+  date: "7/10/2023"
+  chapters:
+    - index.qmd
+    - weight_loss.qmd
+    - stuff_i_cooked.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
