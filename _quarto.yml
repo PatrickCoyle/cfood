@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - weight_loss.qmd
+    - pantry_items.qmd
     - stuff_i_cooked.qmd
 
 bibliography: references.bib
@@ -17,6 +18,3 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-
-
-
