@@ -1,5 +1,7 @@
 # Stuff I Cooked
 
+<!-- One rule I tried to follow is that unhealthy food is OK if it was something I made myself -- especially if it was something I hadn't made before. That way, I could feel good about myself either way! Here's some of the stuff I've made. -->
+
 ## Souffle
 
 ![](/misc/IMG-8723.jpg){fig-alt="souffle"}
@@ -8,10 +10,14 @@
 
 ![](/misc/IMG-5591.jpg){fig-alt="chocolate_mousse"}
 
-# Lasagna
+## Lasagna
 
 ![](/misc/IMG-4295.jpg){fig-alt="lasagna"}
 
-## 36-Hour Sous Vide Eye of Round with Homemade Gravy
+## Sous Vide Barbecue Pork Ribs
+
+![](/misc/ribs.jpg){fig-alt="ribs"}
+
+## Sous Vide Eye of Round with Homemade Gravy
 
 I didn't get a picture of this one but it was really good!
