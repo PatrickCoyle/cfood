@@ -1,3 +1,3 @@
-# Introduction {.unnumbered}
+# {.unnumbered}
 
-![](misc/adventure-time.jpg)
+![](misc/homer1.gif)
